@@ -1,282 +1,88 @@
-# 👋 Hi, I'm Maurica Bellaphant
+# Hi, I'm Maurica Bellaphant 👋
+### Junior Full Stack Developer | AI Integration | Financial Systems Thinking
 
-## Full-Stack Software Developer | AI Solutions Builder | Founder of LTM AI Studio
-
-Welcome to my GitHub!
-
-I'm a Full-Stack Software Developer passionate about building software that solves real-world problems, improves business operations, and creates meaningful opportunities for people and organizations.
-
-After completing the Software Development with AI program at Pivot Technology School, I have dedicated my time to developing modern web applications, business systems, and AI-powered solutions using React, TypeScript, Node.js, Express, APIs, and emerging AI technologies.
-
-My goal is simple:
-
-**Build software that helps organizations move from survival to structure.**
+> *I build full-stack web apps with clean UIs, solid back-ends, and a modern edge in AI — backed by 8+ years of professional accounting experience that makes me think in systems, data, and real-world impact.*
 
 ---
 
-# 🚀 About Me
+## 🚀 What I Build
 
-I am actively pursuing opportunities as a:
-
-* Full-Stack Software Developer
-* Software Engineer
-* Frontend Developer
-* React Developer
-* AI Application Developer
-
-I enjoy building applications that combine clean user experiences, strong technical architecture, and business value.
-
-My background includes software development, AI-powered automation, workforce development initiatives, nonprofit leadership, and entrepreneurship.
-
-As the Founder of LTM AI Studio, I work on projects that help businesses and nonprofits streamline operations through software, automation, and AI solutions.
+```javascript
+const maurica = {
+  role:       "Junior Full Stack Developer",
+  focus:      ["Web Apps", "REST APIs", "AI-Integrated Tools", "Data Dashboards"],
+  currently:  "Open to full-time junior dev roles 🟢",
+  superpower: "Accounting brain + developer hands = business-ready software"
+};
+```
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠 Tech Stack
 
-## Frontend Development
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-* React
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
-* Responsive Design
-* React Router
-* Context API
-* State Management
-* API Integration
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-## Backend Development
-
-* Node.js
-* Express.js
-* REST APIs
-* Authentication
-* CRUD Operations
-* Server Architecture
-
-## Database Technologies
-
-* PostgreSQL
-* SQL
-* Database Design Fundamentals
-
-## Developer Tools
-
-* Git
-* GitHub
-* VS Code
-* Vite
-* Postman
-* Vercel
-
-## Artificial Intelligence
-
-* OpenAI Integrations
-* Prompt Engineering
-* AI Workflow Design
-* Business Automation
-* AI-Powered Applications
+**Data & Tools**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-00C9A7?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-# 💼 Featured Projects
+## 📌 Featured Projects
 
-## Pivot Tech Connect
-
-A workforce development platform designed to support students, alumni, and career services teams.
-
-### Features
-
-* Industry Research Dashboard
-* Job Opportunity Tracking
-* Alumni Outreach Management
-* Career Resource Hub
-* Workforce Analytics
-* Responsive User Experience
-
-### Technologies
-
-* React
-* TypeScript
-* Vite
+| Project | Description | Stack |
+|---|---|---|
+| 🏦 [Financial Dashboard App](#) | Interactive data dashboard built with accounting domain expertise | React, Node.js, SQL |
+| 🤖 [AI Automation Tool](#) | Python tool using OpenAI API to process and analyze data | Python, OpenAI API, JS |
+| 🛒 [Full Stack CRUD App](#) | End-to-end app with auth, REST API, and database | React, Express, PostgreSQL |
+| 📊 [Budget Tracker Pro](#) | Personal finance tracker with data viz and export | React, Chart.js, Node.js |
+| 🎯 [Smart Task Manager](#) | AI-assisted task prioritization tool | Python, React, SQLite |
+| 🌐 [Portfolio Website](#) | Responsive personal portfolio with dark/light mode | HTML, CSS, JavaScript |
 
 ---
 
-## LTM AI Studio
+## 📈 GitHub Stats
 
-A business platform showcasing AI automation, software development, and technology consulting services.
+![Maurica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00C9A7&icon_color=C9A84C&text_color=F5F5F5)
 
-### Features
-
-* Service Management
-* Lead Generation
-* AI Solutions Showcase
-* Modern Business Website
-* Responsive Design
-
-### Technologies
-
-* React
-* TypeScript
-* Vite
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00C9A7&text_color=F5F5F5)
 
 ---
 
-# 🔨 Current Development Roadmap
+## 🎓 Certifications
 
-I am building a portfolio of production-style software applications that demonstrate real-world full-stack development skills.
-
-## JobTrack Pro
-
-A professional job application tracking platform designed to help job seekers organize applications, interviews, and career opportunities.
-
-### Planned Features
-
-* Job Application Management
-* Interview Tracking
-* Follow-Up Scheduling
-* Resume Management
-* Career Analytics Dashboard
-* Search & Filters
-* Application Reporting
-
-### Technology Stack
-
-React • TypeScript • Node.js • Express • PostgreSQL
+- ✅ **Software Development with AI** — [School Name], 2024
+- ✅ Full Stack Web Development
+- ✅ React & Node.js Development
+- ✅ AI/ML Fundamentals & Integration
 
 ---
 
-## Client CRM
+## 💼 Background
 
-A customer relationship management system designed for small businesses and entrepreneurs.
+Before tech, I spent **8+ years in accounting** — managing financial systems, auditing data, solving complex reconciliation problems, and building reporting tools. That background means I don't just write code; I think about **why** the system exists, **who** uses it, and **what** the data means.
 
-### Planned Features
-
-* Customer Management
-* Lead Tracking
-* Contact Records
-* Follow-Up Reminders
-* Sales Pipeline Dashboard
-* Business Reporting
-* Activity Tracking
-
-### Technology Stack
-
-React • TypeScript • Node.js • Express • PostgreSQL
+That's rare in a junior developer. And it's what I bring to your team.
 
 ---
 
-## AI Resume Builder
+## 📬 Let's Connect
 
-An AI-powered platform that helps users create professional resumes and cover letters.
-
-### Planned Features
-
-* Resume Creation
-* AI Content Suggestions
-* Cover Letter Generation
-* ATS Optimization
-* PDF Export
-* Multiple Templates
-
-### Technology Stack
-
-React • TypeScript • Node.js • OpenAI API
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricabellaphant)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 ---
 
-## SaaS Analytics Dashboard
-
-A business intelligence application that provides data visualization and reporting tools.
-
-### Planned Features
-
-* KPI Tracking
-* Revenue Metrics
-* User Analytics
-* Interactive Charts
-* Report Generation
-* Administrative Dashboard
-
-### Technology Stack
-
-React • TypeScript • Node.js • PostgreSQL
-
----
-
-## Team Task Manager
-
-A collaborative project management platform designed to improve productivity and team communication.
-
-### Planned Features
-
-* Team Workspaces
-* Project Boards
-* Task Assignment
-* Due Date Tracking
-* Activity Logs
-* Progress Reporting
-* Team Collaboration
-
-### Technology Stack
-
-React • TypeScript • Node.js • Express • PostgreSQL
-
----
-
-# 🎯 Current Goals
-
-* Secure my first Full-Stack Software Developer position
-* Continue expanding my backend development expertise
-* Master PostgreSQL and database architecture
-* Build scalable SaaS applications
-* Develop advanced AI-powered software solutions
-* Contribute to meaningful technology projects
-
----
-
-# 🌱 Currently Learning
-
-* Advanced TypeScript
-* PostgreSQL
-* Database Design
-* System Architecture
-* Full-Stack SaaS Development
-* AI Application Development
-* Cloud Deployment Workflows
-
----
-
-# 📈 What You'll Find Here
-
-This GitHub profile documents my journey as a software developer while showcasing projects that demonstrate:
-
-* Frontend Development
-* Backend Development
-* API Integration
-* Database Design
-* Business Software Solutions
-* AI-Powered Applications
-* Real-World Problem Solving
-
----
-
-# 🤝 Let's Connect
-
-📧 Email: [M.bellaphant@icloud.com](mailto:M.bellaphant@icloud.com)
-
-💼 LinkedIn: [www.linkedin.com/in/msbellaphant](http://www.linkedin.com/in/msbellaphant)
-
-💻 GitHub: github.com/CodebyMaurica
-
----
-
-## From Survival to Structure
-
-Technology should empower people, simplify processes, and create opportunities.
-
-That's the mission behind every project I build.
-
-Thank you for visiting my GitHub profile.
+*Open to full-time Junior Full Stack Developer roles — remote, hybrid, or on-site. Let's build something great.*
