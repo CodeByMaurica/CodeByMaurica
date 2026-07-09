@@ -109,7 +109,7 @@ Professional portfolio showcasing software engineering projects, technical skill
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: [www.linkedin.com/in/maurica-bellaphant](http://www.linkedin.com/in/maurica-bellaphant)
+💼 LinkedIn: 💼 LinkedIn: linkedin.com/in/msbellaphant
 
 🌐 Portfolio: maurica-bellaphant-portfolio.vercel.app
 
