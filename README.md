@@ -1,88 +1,126 @@
-# Hi, I'm Maurica Bellaphant 👋
-### Junior Full Stack Developer | AI Integration | Financial Systems Thinking
+# <div align="center">💎 Maurica Bellaphant 💎</div>
 
-> *I build full-stack web apps with clean UIs, solid back-ends, and a modern edge in AI — backed by 8+ years of professional accounting experience that makes me think in systems, data, and real-world impact.*
+<div align="center">
 
----
+### Full-Stack Software Engineer | AI Developer | SaaS Builder
 
-## 🚀 What I Build
+**Building modern applications, AI-powered tools, and business solutions that create real-world impact.**
 
-```javascript
-const maurica = {
-  role:       "Junior Full Stack Developer",
-  focus:      ["Web Apps", "REST APIs", "AI-Integrated Tools", "Data Dashboards"],
-  currently:  "Open to full-time junior dev roles 🟢",
-  superpower: "Accounting brain + developer hands = business-ready software"
-};
-```
+📍 Minneapolis, MN
+🚀 Open to Full-Time • Remote • Contract Opportunities
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🖤 About Me
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+I'm a Software Developer with a passion for creating modern web applications, AI-powered tools, SaaS platforms, and automation solutions.
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+My journey into tech has focused on turning ideas into working products while continuously learning new technologies and best practices in software engineering.
 
-**Data & Tools**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-00C9A7?style=flat-square&logo=openai&logoColor=white)
+### Current Focus
+
+✨ Full-Stack Development
+✨ AI Applications & Automation
+✨ React & TypeScript
+✨ Node.js & Express APIs
+✨ PostgreSQL Databases
+✨ SaaS Product Development
 
 ---
 
-## 📌 Featured Projects
+## 💻 Tech Stack
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏦 [Financial Dashboard App](#) | Interactive data dashboard built with accounting domain expertise | React, Node.js, SQL |
-| 🤖 [AI Automation Tool](#) | Python tool using OpenAI API to process and analyze data | Python, OpenAI API, JS |
-| 🛒 [Full Stack CRUD App](#) | End-to-end app with auth, REST API, and database | React, Express, PostgreSQL |
-| 📊 [Budget Tracker Pro](#) | Personal finance tracker with data viz and export | React, Chart.js, Node.js |
-| 🎯 [Smart Task Manager](#) | AI-assisted task prioritization tool | Python, React, SQLite |
-| 🌐 [Portfolio Website](#) | Responsive personal portfolio with dark/light mode | HTML, CSS, JavaScript |
+### Frontend
 
----
+![React](https://img.shields.io/badge/React-14B8A6?style=for-the-badge\&logo=react\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-C0C0C0?style=for-the-badge\&logo=typescript\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-D4AF37?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-14B8A6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-## 📈 GitHub Stats
+### Backend
 
-![Maurica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00C9A7&icon_color=C9A84C&text_color=F5F5F5)
+![Node.js](https://img.shields.io/badge/Node.js-14B8A6?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-D4AF37?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-C0C0C0?style=for-the-badge\&logo=jsonwebtokens\&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=00C9A7&text_color=F5F5F5)
+### Database & Cloud
 
----
-
-## 🎓 Certifications
-
-- ✅ **Software Development with AI** — [School Name], 2024
-- ✅ Full Stack Web Development
-- ✅ React & Node.js Development
-- ✅ AI/ML Fundamentals & Integration
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14B8A6?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-C0C0C0?style=for-the-badge\&logo=vercel\&logoColor=black)
 
 ---
 
-## 💼 Background
+## 🏆 Featured Projects
 
-Before tech, I spent **8+ years in accounting** — managing financial systems, auditing data, solving complex reconciliation problems, and building reporting tools. That background means I don't just write code; I think about **why** the system exists, **who** uses it, and **what** the data means.
+### 🥇 InvoiceAI SaaS
 
-That's rare in a junior developer. And it's what I bring to your team.
+AI-powered invoicing platform with authentication, client management, invoice creation, reporting dashboards, and PDF exports.
 
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricabellaphant)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C9A7?style=flat-square&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+**Tech:** React • TypeScript • Node.js • PostgreSQL
 
 ---
 
-*Open to full-time Junior Full Stack Developer roles — remote, hybrid, or on-site. Let's build something great.*
+### 🥈 Pivot Tech Connect
+
+Career networking and job exploration platform connecting apprentices, alumni, and employers.
+
+**Tech:** React • TypeScript • Express • REST APIs
+
+---
+
+### 🥉 AI Resume Analyzer
+
+AI-powered resume analysis application providing resume scoring and personalized recommendations.
+
+**Tech:** Python • FastAPI • AI Integration
+
+---
+
+### 🏅 Client CRM
+
+Customer relationship management platform for tracking leads, clients, notes, and business interactions.
+
+**Tech:** React • TypeScript • Node.js • PostgreSQL
+
+---
+
+### 🌐 Portfolio Website
+
+Professional portfolio showcasing software engineering projects, technical skills, and AI-focused applications.
+
+**Tech:** React • Vite • TypeScript
+
+---
+
+## 📈 Currently Learning
+
+🔹 Advanced React Patterns
+🔹 System Design Fundamentals
+🔹 AI Agents & Automation
+🔹 DevSecOps Engineering
+🔹 Cloud Deployment
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: [www.linkedin.com/in/maurica-bellaphant](http://www.linkedin.com/in/maurica-bellaphant)
+
+🌐 Portfolio: maurica-bellaphant-portfolio.vercel.app
+
+📧 Contact: Open to networking, collaboration, and software engineering opportunities.
+
+---
+
+<div align="center">
+
+### 💎 From Survival to Structure 💎
+
+Building solutions through technology, creativity, and continuous learning.
+
+</div>
